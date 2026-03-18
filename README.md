@@ -87,3 +87,8 @@ This repository contains:
 This project shows how we can use Pandas for real-world data analysis.
 
 It helps in making better business decisions using data insights 📊
+
+---
+
+🎓 Submitted by: Keshav Kaushik
+B.Sc Computer Science Student
