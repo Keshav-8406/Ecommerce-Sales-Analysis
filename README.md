@@ -1,4 +1,4 @@
- # 🛒 Ecommerce Sales Analysis
+ # 🛒 E-Commerce Sales Analysis
 
 ## 📌 About Project
 This project is based on analyzing sales data of an e-commerce company using Python and Pandas.
